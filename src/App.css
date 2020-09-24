@@ -1,4 +1,28 @@
-* {
-  margin: 0;
-  padding: 0;
+.App {
+  text-align: center;
+}
+
+.app_form {
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #e9e9eb;
+  margin-bottom: 20px;
+}
+
+.app_formcontrol {
+  display: flex !important;
+  flex-direction: row !important;
+  width: 100% !important;
+}
+
+.app_iconbutton {
+  width: fit-content;
+  margin-right: 20px;
+}
+
+.app_input {
+  flex-grow: 1;
 }

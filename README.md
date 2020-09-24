@@ -1,3 +1,5 @@
+The live link of the project is here -  https://messenger-clone-92f21.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
